@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- समाचार page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/p/समाचार.html</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- खेल page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/p/खेल.html</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- शिक्षा page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/p/शिक्षा.html</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- पैसा page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/p/पैसा.html</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- मनोरंजन page -->
+  <url>
+    <loc>https://www.jaunpurpatrika.in/p/मनोरंजन.html</loc>
+    <lastmod>2025-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
